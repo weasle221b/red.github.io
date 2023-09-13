@@ -1,2 +1,2 @@
-# red.github.io
+# redtest
 Only for testing purpose
